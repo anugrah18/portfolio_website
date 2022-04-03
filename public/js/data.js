@@ -35,7 +35,7 @@ var data = {
             percent:80
         },
         {
-            name:"Javascript/Typescript",
+            name:"Javascript",
             percent:75
         },
         {
